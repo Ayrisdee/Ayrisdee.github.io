@@ -6,9 +6,9 @@ body {
 }
 
 #banner {
-    background-color: #35A29F;
+    background-color: #080d0d;
     text-align: center;
-    color: #97FEED;
+    color: #331D2C;
     padding: 30px;
     background-image: url("https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80");
 }
@@ -27,7 +27,7 @@ body {
 .menuitem {
     width : 165px;
     float : left; 
-    background-color: #176B87;
+    background-color: #A8A196;
     list-style-type: none;
     margin:4px;
     padding: 10px;
@@ -41,7 +41,7 @@ body {
 }
 
 h2 {
-    color: #97FEED;
+    color: #2D4356;
     font-size: 24px;
     font-weight: bold;
     text-align: center;
@@ -67,7 +67,7 @@ h2 {
 .serviceitem {
     width : 30%;
     float : left; 
-    background-color: #176B87;
+    background-color: #A8A196;
     list-style-type: none;
     margin:4px;
     padding: 10px;
